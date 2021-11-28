@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 40px;
+}
+
+.button-cus{
+  color: #bbb !important;
+  padding: 10px !important;
+  border-radius: 5px 0px 0px 4px !important;
+  background-color: #8b1508 !important;
+  color: #fff !important;
+}
+
+.input-cus{
+  width: 100px;
+  padding: 10px;
+  border: 3px solid rgb(170, 47, 47);
+  height: 3px;
+}
+
+input#outlined-basic {
+  height: 14px !important;
+}
+
